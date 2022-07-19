@@ -1,0 +1,28 @@
+// *{
+//     outline: 1px black solid;
+// }
+
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+    line-height: 1.5;
+    font-size: 12px;
+}
+
+header, footer{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1140px;
+}
